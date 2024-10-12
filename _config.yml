@@ -22,13 +22,13 @@ repository               : "mooniwei/mooniwei.github.io"
 author:
   # Biographic information
   avatar           : "profileqq.png"
-  name             : "Your Sidebar Name"
+  name             : "Qianjie Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "an HCI Reseacher"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qwei883@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
