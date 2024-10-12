@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qianjie Wei's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qianjie Wei"
 description              : &description "HCI researcher"
