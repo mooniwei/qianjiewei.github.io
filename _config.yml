@@ -24,7 +24,7 @@ author:
   avatar           : "profileqq.png"
   name             : "Qianjie Wei"
   pronouns         : # example: "she/her"  
-  bio              : "an HCI Reseacher
+  bio              : "HCI Reseacher"
   location         : "Guangzhou, China"
   employer         : #
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/weiqianqq/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
