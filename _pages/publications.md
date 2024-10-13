@@ -9,7 +9,7 @@ redirect_from:
 ## 📚 Conference Papers
 ### [Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality](https://ieeexplore.ieee.org/document/10587651)  
 <ins>**Qianjie Wei**</ins>, Jingling Zhang, Pengqi Wang, Xiaofu Jin, Mingming Fan
-*The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*
+*The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*.
 DOI:10.1109/CCDC62350.2024.10587651
 
 ### [Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case](https://ieeexplore.ieee.org/document/9748882)  
