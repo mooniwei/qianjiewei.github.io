@@ -8,24 +8,18 @@ redirect_from:
 
 ## 📚 Conference Papers
 ### Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality
-<ins>**Qianjie Wei**</ins>, Jingling Zhang, Pengqi Wang, Xiaofu Jin, Mingming Fan
-*The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*.
-DOI:10.1109/CCDC62350.2024.10587651
-
-### [Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case](https://ieeexplore.ieee.org/document/9748882)  
-Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>.
-*IEEE Transactions on Circuits and Systems II: Express Briefs*.  
-DOI:10.1109/TCSII.2022.3164572.
+<ins>**Qianjie Wei**</ins>, Jingling Zhang, Pengqi Wang, Xiaofu Jin, Mingming Fan  
+*The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*  
 
 ## 🍀 Conference Papers under Review
-### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
-Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
-*Submitted to ACM CHI 2025, under review*.  
+### RemoteChess: Enhancing Older Adults' Social Connectedness via Designing a Virtual Reality Chinese Chess (Xiangqi) Community
+<ins>**Qianjie Wei**</ins>, Xiaoying Wei, Yiqi Liang, Fan Lin, Nuonan Si, Mingming Fan  
+*Submitted to ACM CHI Conference on Human Factors in Computing Systems (CHI '25), under review*  
 
-### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
-Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
-*Submitted to ACM CHI 2025, under review*.  
+### From Scenarios to Strategies: A Systematic Framework for Understanding Spatial Information Needs of BLV people  
+Yiqi Liang, Fan Lin, Nuonan Si, <ins>**Qianjie Wei**</ins>, Chutian Jiang, Mingming Fan  
+*Submitted to ACM CHI Conference on Human Factors in Computing Systems (CHI '25), under review*  
 
-### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
-Ling Wang, <ins>**Ziming Wang**\*</ins> and Xin Wang.  
-*Submitted to ACM CHI 2025, under review*.  
+### Exoskeleton Use in Lower Limb Rehabilitation: A Qualitative Study of Clinical Practices and Perspectives of Physiotherapists and Patients in China
+Nuonan Si, Junchun Shen, Fan Lin, <ins>**Qianjie Wei**\*</ins>, Jinni Zhou, Mingming Fan  
+*Submitted to ACM CHI Conference on Human Factors in Computing Systems (CHI '25), under review*  
