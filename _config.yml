@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qianjie Wei"
-description              : &description "an HCI researcher"
+description              : &description "HCI researcher"
 url                      : https://mooniwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mooniwei/mooniwei.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Qianjie Wei"
   pronouns         : # example: "she/her"  
   bio              : "HCI Reseacher"
-  location         : "Guangzhou, China"
+  location         : #"Guangzhou, China"
   employer         : #
   uri              : # URL
   email            : "qwei883@connect.hkust-gz.edu.cn" 
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/weiqianqq/"
+  instagram        : "weiqianqq"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
