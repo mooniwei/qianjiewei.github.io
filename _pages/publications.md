@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## 📚 Conference Papers
-### [Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality](https://ieeexplore.ieee.org/document/10587651)  
+### Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality
 <ins>**Qianjie Wei**</ins>, Jingling Zhang, Pengqi Wang, Xiaofu Jin, Mingming Fan
 *The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*.
 DOI:10.1109/CCDC62350.2024.10587651
@@ -17,7 +17,7 @@ Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>.
 *IEEE Transactions on Circuits and Systems II: Express Briefs*.  
 DOI:10.1109/TCSII.2022.3164572.
 
-## 🍀 Journals and Conferences under Review
+## 🍀 Conference Papers under Review
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
