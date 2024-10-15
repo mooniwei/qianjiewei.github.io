@@ -8,7 +8,7 @@ redirect_from:
 
 ## 📚 Conference Papers
 ### Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality
-![Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality](/images/pubs/SystemFeatures.png)
+![Augmented Library: Toward Enriching Physical Library Experience Using HMD-Based Augmented Reality](/images/SystemFeatures.png)
 <ins>**Qianjie Wei**</ins>, Jingling Zhang, Pengqi Wang, Xiaofu Jin, Mingming Fan  
 *The 17th International Symposium on Visual Information Communication and Interaction (VINCI 2024)*  
 [arXiv](https://arxiv.org/abs/2408.06107)
