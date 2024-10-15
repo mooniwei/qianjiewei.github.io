@@ -21,11 +21,11 @@ repository               : "mooniwei/mooniwei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profileqq.png"
+  avatar           : "profile.png"
   name             : "Qianjie Wei"
   pronouns         : # example: "she/her"  
   bio              : "HCI Reseacher"
-  location         : #"Guangzhou, China"
+  location         : "Guangzhou, China"
   employer         : #
   uri              : # URL
   email            : "qwei883@connect.hkust-gz.edu.cn" 
